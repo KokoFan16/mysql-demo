@@ -38,9 +38,7 @@ Your application should now be running at http://localhost:3000
 
 
 ------------------
-
-[![GitHub File](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/KokoFan16/mysql-demo/blob/main/query-example.mp4)
-
+[Query Example Video](https://github.com/KokoFan16/mysql-demo/blob/main/query-example.mp4)
 ------------------
 
 ### Known issue:
