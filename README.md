@@ -39,7 +39,7 @@ Your application should now be running at http://localhost:3000
 
 ------------------
 #### Demo
-![Query Example Video](https://github.com/KokoFan16/mysql-demo/blob/main/query-example.gif)
+![](https://github.com/KokoFan16/mysql-demo/blob/main/query-example.gif)
 ------------------
 
 ### Known issue:
